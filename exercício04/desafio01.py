@@ -2,26 +2,26 @@
 1 - Crie uma função que exibe uma saudação com os parâmetros saudacao e nome.
 """
 
-def saudacao(saudacao, nome):
-    print(f'{saudacao} {nome}')
-
-saudacao('Olá', 'Joãozinho')
-saudacao('Oi', 'Maria')
-saudacao('Hey', 'Eduardo')
+# def saudacao(saudacao, nome):
+#     print(f'{saudacao} {nome}')
+#
+# saudacao('Olá', 'Joãozinho')
+# saudacao('Oi', 'Maria')
+# saudacao('Hey', 'Eduardo')
 
 
 """
 2 - Crie uma função que recebe 3 números como parâmetros e exiba a soma entre 
 eles.
 """
-
-def soma(n1, n2, n3):
-    print(n1 + n2 + n3)
-
-
-soma(2, 1, 3)
-soma(1, 1, 1)
-soma(2, 1, 1)
+#
+# def soma(n1, n2, n3):
+#     print(n1 + n2 + n3)
+#
+#
+# soma(2, 1, 3)
+# soma(1, 1, 1)
+# soma(2, 1, 1)
 
 """
 3 - Crie uma função que receba 2 números. O primeiro é um valor e o segundo um
