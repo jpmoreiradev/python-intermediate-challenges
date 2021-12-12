@@ -1,6 +1,10 @@
-def funcao():
-    print("Hello World!")
+def saudacao(msg="Hollá", nome="JP"):
+    nome = nome.replace("e", "3")
+    msg = msg.replace("e", "3")
+    return f'{msg} {nome}'
 
-funcao()
-funcao()
-funcao()
+variavel = saudacao()
+
+
+print(variavel)
+print(variavel)
